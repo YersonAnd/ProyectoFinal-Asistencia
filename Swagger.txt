@@ -1,0 +1,24 @@
+Proyecto 5 
+Sistema de control de asistencia: En un entorno educativo, se necesita desarrollar un sistema 
+de gestión de asistencia para profesores y estudiantes. Este sistema permitirá llevar un registro 
+preciso de la asistencia a clases y actividades académicas. Los profesores podrán registrar la 
+asistencia de los estudiantes a sus clases, y los estudiantes podrán verificar y notificar su 
+asistencia a través de la plataforma. Además, el sistema mantendrá un seguimiento de las 
+materias impartidas por los profesores y las materias en las que están inscritos los estudiantes. 
+Detalles del problema: La institución educativa busca una solución que simplifique y 
+automatice el proceso de registro de asistencia, lo que ayudará a mejorar la gestión académica 
+y la comunicación entre profesores y estudiantes.
+
+http://localhost:8080/swagger-ui/index.html#/
+
+GET
+/v1/api/Usuario/GetUsuarioRol
+
+GET
+/v1/api/Usuario/GetUsuarioFiltro
+
+GET
+/v1/api/Usuario/GetRolUsuario
+
+GET
+/v1/api/Materia/GetMateria-Usuario-Actividad
